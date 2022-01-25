@@ -3,7 +3,7 @@ Uma API feita em Python, para somar todos os valores de vendas de uma base de da
 
 Exemplo do que retorna:
 
-
+![foto](https://user-images.githubusercontent.com/69007873/151038914-aaaf17c7-168f-4e4e-bbab-4006a961f7a6.jpeg)
 
 Obs: Ela retorna em metodo GET em formato Json
 
